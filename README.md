@@ -231,7 +231,7 @@ A curated collection of papers on applying Large Language Models (LLMs) to Elect
 | Survey and benchmarking of large language models for RTL code generation: The state of the art | UNC Charlotte | arXiv | 2025 |
 | SynCircuit: Automated generation of new synthetic RTL circuits can enable better LLMs | HKUST | DAC | 2025 |
 | Comprehensive verilog design problems: A next-generation benchmark dataset for LLMs | NVIDIA | arXiv | 2025 |
-| Lowering the bar: How large language models can be used as a copilot by hardware designers | NYU | — | 2025 |
+| Lowering the Bar: How Large Language Models Can be Used as a Copilot by Hardware Hackers | NYU | IEEE S&P | 2025 |
 | Large Language Models for EDA: Future or Mirage? | CUHK | ISPD | 2024 |
 | The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models | CUHK | arXiv | 2024 |
 | Large circuit models: opportunities and challenges | CUHK | SCIS | 2024 |
@@ -272,6 +272,7 @@ A curated collection of papers on applying Large Language Models (LLMs) to Elect
 | CSCML | Cyber Security, Cryptology, and Machine Learning |
 | IEEE Access | IEEE Access |
 | ISVLSI | IEEE Computer Society Annual Symposium on VLSI |
+| IEEE S&P | IEEE Security & Privacy |
 | TODAES | ACM Transactions on Design Automation of Electronic Systems |
 | TCAD | IEEE Transactions on Computer-Aided Design |
 | SCIS | Science China Information Sciences |
