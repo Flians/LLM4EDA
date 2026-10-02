@@ -198,6 +198,7 @@ A curated collection of papers on applying Large Language Models (LLMs) to Elect
 
 | Paper | Affiliation | Venue | Year |
 |-------|-------------|-------|------|
+| [CacheMind: From Miss Rates to Why — Natural-Language, Trace-Grounded Reasoning for Cache Replacement](https://research.ece.ncsu.edu/brainspec/wp-content/uploads/sites/35/2026/06/cachemind.pdf) | NC State University | ASPLOS | 2026 |
 | AutoFlows++: Hierarchical Message Flow Mining for System on Chip Designs | USF | arXiv | 2026 |
 | ChipMind: LLMs for Agile Chip Design | ASU | VTS | 2025 |
 | TPU-Gen: LLM-Driven Custom Tensor Processing Unit Generator | NJIT | arXiv | 2025 |
@@ -260,6 +261,7 @@ A curated collection of papers on applying Large Language Models (LLMs) to Elect
 | ACL Findings | Findings of the Association for Computational Linguistics |
 | IJCAI | International Joint Conference on Artificial Intelligence |
 | ASPDAC | Asia and South Pacific Design Automation Conference |
+| ASPLOS | Architectural Support for Programming Languages and Operating Systems |
 | ISPD | International Symposium on Physical Design |
 | FCCM | IEEE Symposium on Field-Programmable Custom Computing Machines |
 | MLCAD | Machine Learning for CAD |
